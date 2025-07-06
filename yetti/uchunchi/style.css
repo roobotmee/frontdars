@@ -1,0 +1,188 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+
+.box-1{
+    background-color: #74C69D;
+    height: 700px;
+   
+}
+
+.nav{
+    display: flex;
+    gap: 5px;
+    color: #fff;
+    font-size: 40px;
+
+}
+.navv{
+    display: flex;
+    gap: 20px;
+    color: #fff;
+    padding-top: 20px;
+  
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    margin: 0 40px;
+}
+.btnn{
+    width: 170px;
+    height: 50px;
+    border: none;
+    color: #000;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.but{
+    padding-top: 40px;
+}
+.box{
+    margin: 0 60px;
+    padding-top: 180px;
+    display: flex;
+    justify-content: space-between;
+}
+.box h3{
+    font-size: 16px;
+    color: #fff;
+}
+.box h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+}
+.box p{
+    color: #fff;
+    padding-top: 40px;
+}
+.box-2{
+    padding-top: 50px;
+    text-align: center;
+    margin: 0 60px;
+}
+.box-2 h3{
+    font-size: 16px;
+    color: #74C69D;
+    padding-top: 20px;
+}
+
+
+
+.box-2 h2{
+    font-size: 40px;
+    color: #000000;
+    padding-top: 20px;
+}
+.box-2 p{
+    font-size: 20px;
+    color: #000000;
+    padding-top: 20px;
+}
+.svv{
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    justify-content: space-around;
+}
+.more{
+    color: #FFFFFF;
+    background-color: #000000;
+    width: 170px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+}
+.lee{
+    padding-top: 30px;
+}
+.box-3{
+    justify-content: space-between;
+    display: flex;
+
+    margin: 0 60px;
+    padding-top: 150px;
+}
+.bit{
+    padding-top: 60px;
+}
+.bit h3{
+    color: #212529;
+    font-size: 40px;
+}
+.bit p{
+    color: #21252980;
+    padding-top: 30px;
+}
+
+.box-4{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 60px;
+    padding-top: 150px;
+}
+.box-5{
+    padding-top: 100px;
+    margin: 0 60px;
+    text-align: center;
+}
+.box-5 h4{
+    font-size: 16px;
+    color: #74C69D;
+
+}
+.box-5 h1{
+    color: #212529;
+    font-size: 40px;
+    padding-top: 30px;
+}
+.box-5 p{
+    color: #000000;
+    font-size: 20px;
+    padding-top: 40px;
+}
+.imgg{
+    padding-top: 140px;
+    gap: 40px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.futer{
+    background-color: #74C69D;
+    height: 100px;
+   
+    
+   
+}
+.max{
+    height: 200px;
+}
+.futer img{
+    width: 250px;
+    height: 20px;
+    margin: 0 60px;
+}
+
+.butt{
+    color: #FFFFFF;
+    font-size: 20px;
+    display: flex;
+    background-color: #74C69D;
+    height: 100px;
+    justify-content: space-between;
+    margin: 0 60px;
+    padding-top: 40px;
+}
+
+

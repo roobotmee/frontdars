@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+    padding: 0 ; 
+    margin: 0;
+}
+.box-1{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    margin: 0 60px;
+
+}
+.room{
+    display: flex;
+    gap: 30px;
+    padding-top: 15px;
+}
+
+.btn{
+    width: 120px;
+    height: 50px;
+    background-color: #0E1734;
+    border: none;
+    color: #fff;
+    border-radius: 4px;
+}
+.box-2{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 60px;
+    padding-top: 150px;
+    height: 700px;
+}
+.box-2 p{
+    color: #848FAC;
+    padding-top: 30px;
+    font-size: 18px;
+}
+.box-2 h1{
+    color: #192252;
+    font-size: 48px;
+
+}
+
+.imn{
+    padding-top: 30px;
+}
+.res{
+    background-color: #0E1734;
+    width: 160px;
+    height: 55px;
+    color: #fff;
+    border-radius: 4px;
+    border: none;
+}
+.one{
+    padding-top: 100px;
+}
+.man{
+    padding-top: 70px;
+}
+.imgg{
+    display: flex;
+    gap: 20px;
+}
+
+.box-3{
+    padding-top: 200px;
+    height: 700px;
+    text-align: center;
+
+}
+
+.box-3 img{
+    padding-top: 70px;
+}
+.out{
+    padding-top: 70px;
+    color: #848FAC;
+}
+
+.box-3 h4{
+    padding-top: 70px;
+    font-size: 20px;
+}
+.box-4{
+    background-color: #0B265A;
+    height: 400px;
+}
+
+.box-5{
+    display: flex;
+    margin: 0 80px;
+    justify-content: space-around;
+    color: #fff;
+    padding-top: 100px;
+    
+}
+.box-5 p{
+    color: #D9DBDE;
+}
+.boz{
+    display: flex;
+    gap: 100px;
+    
+}
+.boxx p{
+    padding-top: 20px;
+}
+.box{
+    color: #fff;
+    
+}
+.box p{
+    padding-top: 10px;
+}
+.imgmm{
+    padding-top: 40px;
+    gap: 20px;
+    display: flex;
+}
