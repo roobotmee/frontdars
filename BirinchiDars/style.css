@@ -1,0 +1,188 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background: #192F48;
+    
+   
+}
+.to{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    padding-top: 40px;
+    margin-top: 30px;
+    text-align: center;
+    
+}
+
+.use{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+     padding-top: 40px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.contianer{
+    
+    
+    
+    
+}
+.delta{
+    display: block;
+}
+.box-1{
+    width: 350px;
+    height: 440px;
+    border-radius: 6px;
+    background: #2B405A;
+    color: #FFF;
+    text-align: center;
+    margin-top: 30px;
+}
+.btn{
+    width: 150px;
+    height: 35px;
+    border-radius: 5px;
+    background: #258AFF;
+    /* display: block; */
+    color: #FFF;
+    font-family: Karla;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border: none;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+}
+.box-1 p{
+    margin-top: 20px;
+}
+
+.on{
+    font-size: 35px;
+    color: #FFF;
+
+}
+
+del{
+    color: #878B90;
+}
+
+.free{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+
+}
+.no{
+        color: #878B90;
+
+
+}
+.basc{
+    padding-top:20px;
+}
+
+
+.box-2{
+    width: 350px;
+    height: 440px;
+    border-radius: 6px;
+    background: #FFFFFF;
+    color: #000;
+    text-align: center;
+    margin-top: 30px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.lii{
+    width: 100px;
+    height: 30px;
+    border-radius: 13px;
+    background: #4EAB08;
+    border: none;
+
+    color: #FFF;
+
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: -0.514px;
+text-transform: uppercase;
+}
+
+.populor{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+.box-2 p{
+    margin-top: 20px;
+}
+.btnn{
+    width: 150px;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+    background: #FC593B;
+    color: #FFF;
+}
+.nnn{
+    padding-top: 20px;
+}
+.for{
+    color: #666;
+    font-size: 10px;
+}
+.forr{
+    color: #E5E5E5;
+    font-size: 10px;
+
+}
+.populor h6{
+    margin: 10px;
+    /* display: block; */
+    color: #666666;
+    font-size: 15px;
+}
+.onn{
+    font-size: 35px;
+}
+
+.boxx{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.or{
+    padding-top: 20px;
+}
+
+.icon{
+    display: flex;
+    gap: 7px;
+}
+.unit{
+    padding-top: 15px;
+}
